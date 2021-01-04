@@ -1,0 +1,49 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.App {
+  text-align: center;
+}
+
+.logo {
+  display: flex;
+}
+
+.card-body {
+  box-shadow: 10px 10px 150px grey;
+}
+
+.container-register {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+  border-radius: 10px;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.container-login {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+  border-radius: 10px;
+  font-family: "Courier New", Courier, monospace;
+}
+.page {
+  display: grid;
+  justify-content: center;
+  border-radius: 10px;
+  font-family: "Courier New", Courier, monospace;
+}
+.container-add {
+  display: grid;
+  justify-content: center;
+  border-radius: 10px;
+  font-family: "Courier New", Courier, monospace;
+}
+.fa-clickable {
+  cursor:pointer;
+  outline:none;
+}
